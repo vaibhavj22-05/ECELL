@@ -31,7 +31,7 @@ const values = [
 
 const About: React.FC = () => {
   return (
-    <div className="min-h-screen py-24 bg-gradient-to-b from-[#0f172a] to-[#020617] text-white">
+    <div className="min-h-screen flex items-center justify-center py-20">
       <div className="container mx-auto px-6">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
