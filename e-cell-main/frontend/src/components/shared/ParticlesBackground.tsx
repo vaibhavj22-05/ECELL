@@ -5,7 +5,7 @@ import type { Engine } from 'tsparticles-engine';
 
 const ParticlesBackground: React.FC = () => {
   const particlesContainerRef = useRef<any>(null);
-  const [isDarkMode, setIsDarkMode] = useState(false);
+  const [isDarkMode, setIsDarkMode] = useState(true);
 
   // Function to check if dark mode is enabled
   const checkDarkMode = () => {

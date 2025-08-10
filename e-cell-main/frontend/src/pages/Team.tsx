@@ -189,7 +189,7 @@ const teamMembers: TeamMember[] = [
   },
   {
     id: '11',
-    name: 'himanshu Vishwakarma',
+    name: 'Himanshu Vishwakarma',
     role: 'Creative Head',
     category: 'Core Team',
     image: himanshu,
@@ -320,7 +320,7 @@ const teamMembers: TeamMember[] = [
     socialLinks: {
       linkedin: 'https://www.linkedin.com/in/aryan-kumar-650044250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
       // email: 'nalin@ecellmait.com',
-      github: 'https://github.com/Nalin-khanna',
+      // github: 'https://github.com/Nalin-khanna',
     },
   },
 
