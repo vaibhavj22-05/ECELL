@@ -2,6 +2,7 @@
 
 import React from 'react';
 import edcimage from '../../pics/edcimage.jpg';
+import { Link } from "react-router-dom";
 
 const Aboutedc: React.FC = () => {
   return (
@@ -21,11 +22,11 @@ const Aboutedc: React.FC = () => {
           The Entrepreneurship Development Cell, MAIT is the hub where we ignite the spark of innovation and fuel ambitious minds. By uniting students, mentors, investors, and industry trailblazers, we spark creativity through hands-on workshops, pitch-perfect startup showcases, and inspiring E-talks. Our mission? To empower you with the resources, guidance, and network you need to turn dreams into dynamic ventures. Join us, and become one of the “PRU-DENT-REPRENEURS”—where bold vision meets smart action!
         </p>
         <div className="flex flex-col md:flex-row gap-4 justify-center md:justify-center">
-          <a href="/Team">
+          <Link to="/team">
             <button className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-black transition">
               Meet Our Team
             </button>
-          </a>
+          </Link>
         </div>
       </div>
     </section>
