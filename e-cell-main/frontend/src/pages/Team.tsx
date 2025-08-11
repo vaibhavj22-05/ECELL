@@ -278,7 +278,7 @@ const teamMembers: TeamMember[] = [
   {
     id: '13',
     name: 'Shivansh Sharma',
-    role: 'Operation Lead',
+    role: 'Operations Lead',
     category: 'Coordinators',
     image: shivansh,
     socialLinks: {
@@ -302,7 +302,7 @@ const teamMembers: TeamMember[] = [
   {
     id: '24',
     name: 'Pushkar Taneja',
-    role: 'Graphic Lead',
+    role: 'Graphics Lead',
     category: 'Coordinators',
     image: pushkar,
     socialLinks: {

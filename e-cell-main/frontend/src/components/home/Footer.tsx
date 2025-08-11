@@ -11,12 +11,12 @@ import { faXTwitter } from "@fortawesome/free-brands-svg-icons"; // X (Twitter) 
 
 const contributors = [
   {
-    name: "Shivam KumarJha ",
+    name: "Shivam Kumar Jha ",
     linkedin: "https://www.linkedin.com/in/shivam-kumar-jha-35686a238/",
     github: "https://github.com/Shivoo29",
   },
   {
-    name: "Nalin Kumar",
+    name: "Nalin Khanna",
     linkedin: "https://www.linkedin.com/in/nalin-khanna-877a99246/",
     github: "https://github.com/Nalin-khanna",
   },
